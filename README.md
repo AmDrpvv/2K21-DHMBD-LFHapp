@@ -30,7 +30,7 @@ A flutter app which helps in furniture product management by maintaning a databa
 
 | **Product Gallery** |  **Product Info Screen** |
 | :------: | :----: |
-|<img src="assets\gallery.jpg" />|<img src="assets\productview.jpg"/>|
+|<img src="assets\Gallery.jpg" />|<img src="assets\productview.jpg"/>|
 
 
 <br></br>
@@ -50,5 +50,5 @@ A flutter app which helps in furniture product management by maintaning a databa
 
 | **Add Product** |  **Add ProductInfo Screen** |
 | :------: | :----: |
-|<img src="assets\addproduct.jpg" />|<img src="assets\addproduct3.jpg"/>|
+|<img src="assets\addProduct.jpg" />|<img src="assets\addproduct3.jpg"/>|
 
